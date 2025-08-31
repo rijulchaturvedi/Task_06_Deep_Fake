@@ -1,0 +1,5 @@
+[REPORTER] tempo=fast, pitch=neutral-low, energy=curious
+[FUSION] tempo=medium, pitch=low, energy=assured
+[BIO] tempo=medium, pitch=neutral, energy=thoughtful
+[HEALTH] tempo=slow, pitch=neutral, energy=empathetic
+[CLIMATE] tempo=medium-fast, pitch=bright, energy=optimistic

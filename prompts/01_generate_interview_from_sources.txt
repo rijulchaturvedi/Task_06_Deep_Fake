@@ -1,0 +1,13 @@
+Rewrite the following into a 2–3 minute street interview set in 2125.
+Keep each turn 10–18 words, avoid jargon or add a one-line gloss.
+Embed brief “look-back” facts from the 2020s:
+- NIF multi-MJ ignition (5.2 MJ from ~2.2 MJ, 2024)
+- JET’s 69 MJ over 5 s sustained record (2024)
+- AlphaFold 3 modeling interactions (proteins, nucleic acids, ligands)
+- First FDA-approved CRISPR therapy (sickle cell)
+- Perovskite-silicon tandem modules (~26–27% module efficiency)
+
+Label speakers: Reporter, Fusion Engineer, Bio-Design Researcher, Global Health Lead, Climate-Tech Builder.
+End with one actionable lesson for policy students.
+SOURCE NOTES:
+<<<paste short bullet notes & links>>>
