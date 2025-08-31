@@ -1,0 +1,10 @@
+file fix_01_reporter.wav
+file fix_02_fusion.wav
+file fix_03_reporter.wav
+file fix_04_bio.wav
+file fix_05_reporter.wav
+file fix_06_health.wav
+file fix_07_reporter.wav
+file fix_08_climate.wav
+file fix_09_reporter.wav
+file fix_10_all.wav

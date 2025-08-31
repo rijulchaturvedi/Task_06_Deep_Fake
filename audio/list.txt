@@ -1,0 +1,10 @@
+file 01_reporter.wav
+file 02_fusion.wav
+file 03_reporter.wav
+file 04_bio.wav
+file 05_reporter.wav
+file 06_health.wav
+file 07_reporter.wav
+file 08_climate.wav
+file 09_reporter.wav
+file 10_all.wav
